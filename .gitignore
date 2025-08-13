@@ -1,0 +1,12 @@
+# macOS system files (applies everywhere)
+.DS_Store
+._*
+
+# Documents (applies everywhere) 
+*.pdf
+*.docx
+
+# Personal folders (applies everywhere)
+personal_notes/
+notes/
+guidebook/
