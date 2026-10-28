@@ -6,4 +6,4 @@ This folder contains exercises from the "Python for Everybody" specialization by
 # Files
 This directory contains all the Python (.py) and text (.txt) sample files from the exercises and assignments completed during these courses.
 
-this is a test
+
